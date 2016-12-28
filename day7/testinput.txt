@@ -1,0 +1,6 @@
+abba[mnop]qrst
+abba[mnop]qrstabba
+abcd[bddb]xyyx
+abcd[bddb]xyyx[bddb]
+aaaa[qwer]tyui
+ioxxoj[asdfgh]zxcvbn
